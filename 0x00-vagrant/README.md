@@ -1,1 +1,1 @@
-This is the vargant directory
+This is the vagrant directory
